@@ -1,3 +1,4 @@
 # Provisioning
 
- * [VMWare Fusion](docs/01-provision-vmware-fusion.md)
+ * [VMWare Fusion](docs/vmware/01-provision.md
+

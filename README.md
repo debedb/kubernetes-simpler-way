@@ -8,6 +8,10 @@ these are just notes from installing Kubernetes for my own purposes
 (largely, [development](http://romana.io/) and research). This, of
 course, is not intended to be anywhere near production.
 
+This is not a PR to the original because I couldn't quite figure out
+how to make it make sense in parallel to the all-encompassing
+original. If anyone has an idea, let me know.
+
 ## Goals
 
 The goal is to focus on being able to experiment with K8S
@@ -33,9 +37,10 @@ infrastructure).
 
 ## Labs
 
- * [docs/01-provisioning.md]Provisioning - here we will provision servers. 
-   * [VMWare Fusion] (this assumes VMWare Fusion Pro 8.5.0)
- * 
+ * Provisioning
+   * [VMWare Fusion] (this assumes VMWare Fusion Pro 8.5.0 for now)
+     * This assumes OSX with Kubernetes installed (TBD)
+   
 
 
 ## See also
